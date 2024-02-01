@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ricky/OneDrive/Documents/Unreal Projects/Animation (Proj 8)/AnimationEcosystemforGame/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/ricky/OneDrive/Documents/Unreal Projects/Animation (Proj 8)/AnimationEcosystemforGame/Content/Characters/Mannequins/Animations/Manny/Manny_Holster_Weapon.uasset",
+				"C:/Users/ricky/OneDrive/Documents/Unreal Projects/Animation (Proj 8)/AnimationEcosystemforGame/Content/Characters/Mannequins/Animations/Manny/Manny_UnHolster_Weapon1.uasset",
+				"C:/Users/ricky/OneDrive/Documents/Unreal Projects/Animation (Proj 8)/AnimationEcosystemforGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ricky/OneDrive/Documents/Unreal Projects/Animation (Proj 8)/AnimationEcosystemforGame/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/ricky/OneDrive/Documents/Unreal Projects/Animation (Proj 8)/AnimationEcosystemforGame/Content/Characters/Mannequins/Animations/Manny/Manny_Equip_Rifle_Standing/Driving_Manny_Equip_Rifle_Standing.uasset",
 				"C:/Users/ricky/OneDrive/Documents/Unreal Projects/AnimationEcosystemforGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/ricky/OneDrive/Documents/Unreal Projects/AnimationEcosystemforGame/Content/Characters/Mannequins/Animations/Manny/Manny_Aim_Space_Hip.uasset",
 				"C:/Users/ricky/OneDrive/Documents/Unreal Projects/AnimationEcosystemforGame/Content/Characters/Mannequins/Animations/Manny/Manny_Aim_Space_Ironsights.uasset",
